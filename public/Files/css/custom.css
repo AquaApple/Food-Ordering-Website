@@ -1,0 +1,72 @@
+#aboutstyle{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+  } 
+  #about{
+    background-color: #F2A71B !important;
+  }
+  #footerstyle{
+    background-color: #F27405;
+  }
+#contactstyle{
+    padding-top:20px;
+    border-style: solid;
+    border-color: #FFB900;
+    border-radius: 10%;
+    margin-top: 90px;
+  }
+
+
+.navcolor{
+  background-color: rgb(243, 138, 63);
+}
+#signin{
+  font-weight: bold;
+  color:#FFFEF8 !important;
+}
+
+#foodphoto{
+  width: 500px; 
+  height: 500px;
+  object-fit: cover;
+}
+
+.customdesc{
+  border-top: none;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #118ab2;
+  margin-top: 20px;
+  font-weight: bold;
+  color:#e85d04;
+}
+
+#imgcustom{
+  width:400px;
+  height:400px;
+  margin-bottom: 40px;
+  border-radius: 20px; 
+  margin-left:150px;
+}
+
+.btnorder{
+  margin-left: 40%;
+  background-color: #023047
+}
+
+#orderform p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: #197278;
+}
+
+#orderform h5{
+  color: #d62828;
+  font-size: 30px;
+}
+
+
+
+

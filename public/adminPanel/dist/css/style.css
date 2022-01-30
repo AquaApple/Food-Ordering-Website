@@ -1,0 +1,12 @@
+.show-result{
+    background-color: #F2F2F2;
+    padding: 10px;
+    margin:10px 0;
+    color :#03A66A;
+    display: none;
+}
+
+.customcolor{
+    color: white;
+    background-color: rgba(31, 174, 199, 0.664);
+}
